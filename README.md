@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Cyber Security//Pentesting//SOC.
 - 🌱 I’m continously learning Python and Cyber Security
 - 💞️ I’m looking to collaborate on Python and Cyber Security Projects
-- 📫 How to reach me Linkedin: ntsapi betta
+- 📫 How to reach me Linkedin: https://www.linkedin.com/in/betta-ntsapi-5542432aa/
 
 <!---
 bettantsapi/bettantsapi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
