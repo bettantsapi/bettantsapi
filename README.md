@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ntsapi
-- 👀 I’m interested in Python and Cyber Security//Pentesting.
-- 🌱 I’m currently learning Python and Cyber Security
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me FB: betta ntsapi
+- 👀 I’m interested in Python and Cyber Security//Pentesting//SOC.
+- 🌱 I’m continously learning Python and Cyber Security
+- 💞️ I’m looking to collaborate on Python and Cyber Security Projects
+- 📫 How to reach me Linkedin: ntsapi betta
 
 <!---
 bettantsapi/bettantsapi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
